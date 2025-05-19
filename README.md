@@ -35,7 +35,7 @@ When a character is shifted, it moves within this entire set. For example, with 
 '~' would wrap around to 'a'
 ```
 ## How to Use
-- Run the script: advanced_caesar_cipher.py
+- Run the script: caesar_cipher.py
 - Follow the prompts:
   - Type 'encode' to encrypt a message or 'decode' to decrypt
   - Enter the message you want to process (can include any characters in the supported set)
