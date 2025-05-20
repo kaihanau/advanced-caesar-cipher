@@ -1,6 +1,6 @@
 # Advanced Caesar Cipher
 
-A versatile command-line implementation of the Caesar cipher encryption technique in Python, supporting a comprehensive character set.
+A versatile implementation of the Caesar cipher encryption technique in Python, supporting a comprehensive character set.
 
 ## Description
 
